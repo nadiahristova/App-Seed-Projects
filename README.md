@@ -1,7 +1,7 @@
 # App-Seed-Projects
 Few seed projects that can be used as a starting point for a new app
 
-..*.Net Core Web Api with MySQL Code First and Angular2-H5
+..* .Net Core Web Api with MySQL Code First and Angular2 - H5
 ------
 
 This project includes: 
